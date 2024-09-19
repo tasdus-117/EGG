@@ -1,0 +1,219 @@
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Nav {
+    width: 1440px;
+    height: 60px;
+}
+.BBuy {
+    width: 160px;
+    height: 18px;
+    margin-top: 18px;
+    background-color: #111B47;
+    color: #fff;
+    text-align: center;
+    border : 3px solid #111B47;
+    font-weight: 500 ;
+    font-size: 14px;
+    margin-left: 1115px ;
+}
+.group {
+    width: 245px;
+    height: 24px;
+    margin-top: -28px;
+    margin-left: 165px;
+    color: #505F98;
+    word-spacing: 40px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.logo {
+    font-size: 26px;
+    color: #37447E;
+    font-weight: 900;
+    line-height: 38px;
+    margin-left: 681px;
+    margin-top: -28px;
+}
+.Hero {
+    width: 1911.32px;
+    height: 1161px;
+    background-image: url(picture/designer_1.png);
+    background-size: 100x;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.Hero-Content {
+    width: 539.37px;
+    height: 316px;
+    margin-top: 303px;
+    margin-left: 163.12px;
+    padding: 0px 0.37px 0px 0px;
+    box-sizing: content-box;
+}
+p.tittle {
+    font-size: 50px;
+    line-height: 66px;
+    color: #091133;
+    font-weight: 500;
+}
+p {
+    font-size: 18px;
+    line-height: 30px;
+    color:#505F98;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+.Button {
+    float: left;
+}
+.Button1 {
+    width: 189px;
+    height: 26px;
+    margin-top: 5px;
+    background-color: #111B47;
+    color: #fff;
+    text-align: center;
+    border : 3px solid #111B47;
+}
+.Button2 {
+    width: 189px;
+    height: 26px;
+    margin-top: 5px;
+    margin-left: 30px;
+    background-color: #fff;
+    color: #111B47;
+    text-align: center;
+    border: 3px solid #091133;
+}
+.undraw {
+    width: 1440px;
+    height: 742px;
+    margin-top: 100px;
+    background-image: url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-position: 800px -200px;
+}
+.undraw-content {
+    width: 540px;
+    height: 204px;
+    margin-top: 1000px;
+}
+.ele {
+    width: 255px;
+    height: 138px;
+    margin-top: 200px;
+    float: left;
+}
+.t1 {
+    height: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120px;
+    text-align: left;
+    color: #091133;
+
+}
+.ele {
+    background-image: url(picture/Left.png);
+    background-repeat: no-repeat;
+}
+.cta {
+    width: 1440px;
+    height: 546px;
+    margin-top: 100px;
+    background-image: url(picture/undraw_mention_6k5d.png);
+    background-repeat: no-repeat;
+}
+.cta-title {
+    width: 445px;
+    height: 230px;
+    margin-top: 100px;
+    margin-left: 826px;
+}
+.Pricing {
+    width: 2546.93px;
+    height: 500px;
+    background-color: #E7ECFF;
+}
+.Pricing-Text {
+    width: 600px;
+    height: 116.31px;
+    top: 2635.61px;
+    margin-left: 420px;
+}
+.Price {
+    font-size: 50px;
+    line-height: 66px;
+    color: #091133;
+    font-weight: 500px;
+    margin-left: 250px;
+    font-weight: 500 ;
+    color:#222F65;
+    ;
+}
+.Title {
+    width: 350px;
+    height: 26px;
+    margin-left: 245px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color: #37447E;
+}
+.Body {
+    width: 350px;
+    height: 26px;
+    margin-left: 200px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    color:#5D6970;
+    margin-top: 100px;
+}
+.Text {
+    margin-left:20px;
+}
+.footer {
+    width: 1440px;
+    height: 216px;
+    margin-top: 500px; 
+    background-color: #E7ECFF;
+}
+.company {
+    width: 200px;
+    height: 24px;
+    margin-top: 200px;
+    margin-left:  165px;
+    color: #939EA4;
+    font-weight: 500;
+    font-size: 18px;
+}
+.Button3 {
+    width: 189px;
+    height: 26px;
+    margin-top: -30px;
+    margin-left: 1000px;
+    background-color: #111B47;
+    color: #fff ;
+    text-align: center;
+    border: 3px solid #091133;
+}
+.line {
+    width: 1200px;
+    height: 0.01px;
+    border:#939EA4 1px solid;
+    margin-top: 20px;
+}
+.gr1 {
+     margin-top: 10px;
+}
+.icon {
+    width: 245px;
+    height: 24px;
+    margin-left: 900px;
+    margin-top: -20px;
+    display: flex;
+    justify-content: space-between;
+}
